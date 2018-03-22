@@ -1,0 +1,6 @@
+C:\Users\Staffan\Source\Repos\ASP\PizzaChallenge\Pizza.DTO\bin\Debug\Pizza.DTO.dll
+C:\Users\Staffan\Source\Repos\ASP\PizzaChallenge\Pizza.DTO\bin\Debug\Pizza.DTO.pdb
+C:\Users\Staffan\Source\Repos\ASP\PizzaChallenge\Pizza.DTO\obj\Debug\Pizza.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Staffan\Source\Repos\ASP\PizzaChallenge\Pizza.DTO\obj\Debug\Pizza.DTO.dll
+C:\Users\Staffan\Source\Repos\ASP\PizzaChallenge\Pizza.DTO\obj\Debug\Pizza.DTO.pdb
+C:\Users\Staffan\Source\Repos\ASP\PizzaChallenge\Pizza.DTO\obj\Debug\Pizza.DTO.csprojResolveAssemblyReference.cache

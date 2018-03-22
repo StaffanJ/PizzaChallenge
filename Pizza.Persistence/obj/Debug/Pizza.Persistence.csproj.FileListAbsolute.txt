@@ -1,0 +1,14 @@
+C:\Users\Staffan\Source\Repos\ASP\PizzaChallenge\Pizza.Persistence\bin\Debug\Pizza.Persistence.dll
+C:\Users\Staffan\Source\Repos\ASP\PizzaChallenge\Pizza.Persistence\bin\Debug\Pizza.Persistence.pdb
+C:\Users\Staffan\Source\Repos\ASP\PizzaChallenge\Pizza.Persistence\obj\Debug\Pizza.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Staffan\Source\Repos\ASP\PizzaChallenge\Pizza.Persistence\obj\Debug\Pizza.Persistence.dll
+C:\Users\Staffan\Source\Repos\ASP\PizzaChallenge\Pizza.Persistence\obj\Debug\Pizza.Persistence.pdb
+C:\Users\Staffan\Source\Repos\ASP\PizzaChallenge\Pizza.Persistence\bin\Debug\Pizza.Persistence.dll.config
+C:\Users\Staffan\Source\Repos\ASP\PizzaChallenge\Pizza.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\Staffan\Source\Repos\ASP\PizzaChallenge\Pizza.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Staffan\Source\Repos\ASP\PizzaChallenge\Pizza.Persistence\bin\Debug\Pizza.DTO.dll
+C:\Users\Staffan\Source\Repos\ASP\PizzaChallenge\Pizza.Persistence\bin\Debug\Pizza.DTO.pdb
+C:\Users\Staffan\Source\Repos\ASP\PizzaChallenge\Pizza.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\Staffan\Source\Repos\ASP\PizzaChallenge\Pizza.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Staffan\Source\Repos\ASP\PizzaChallenge\Pizza.Persistence\obj\Debug\Pizza.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\Staffan\Source\Repos\ASP\PizzaChallenge\Pizza.Persistence\obj\Debug\Pizza.Persistence.csproj.CopyComplete
